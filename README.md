@@ -24,7 +24,7 @@ All copy is in clean professional English. Theme: rich maroon with saffron / gol
 
 ## Links
 
-- **Live site:** _To be added after Vercel deployment_
+- **Live site:** https://raja-thandai.vercel.app
 - **Repository:** https://github.com/millerthehacker22307/raja-thandai
 
 ## Facts sources
