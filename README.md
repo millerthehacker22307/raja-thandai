@@ -15,6 +15,23 @@ A single-page, mobile-friendly website with:
 
 All copy is in clean professional English. Theme: rich maroon with saffron / gold accents.
 
+## Menu highlights on the site
+
+The six cards shown in the Menu Highlights section are:
+
+- **Signature Thandai** — the classic served since 1936: chilled milk blended with hand-ground thandai masala, cardamom and fennel.
+- **Saffron Thandai** — the signature drink enriched with saffron for its golden colour and rich, festive aroma.
+- **Rose Thandai** — a rose-flavoured variant of the classic: light, fragrant and gently floral.
+- **Hand-Ground Masala** — the heart of every glass: thandai masala prepared fresh daily on a traditional stone grinder.
+- **Dry Fruit Thandai** — a rich blend made with pistachios and cashew nuts, giving the thandai its creamy body and nutty depth.
+- **Traditional Five-Seed Blend** — made with the traditional five seed kernels at the core of the recipe.
+
+## Visitor notes
+
+- Prices are not listed on the site; please ask at the counter for today's prices.
+- The shop is especially popular during Holi — please allow a little extra time during the festival season.
+- The thandai masala is hand-ground daily on a traditional stone grinder, then blended with milk, saffron, pistachios, cashew nuts, cardamom and fennel.
+
 ## Business details used
 
 - **Address:** Gole Darwaza Chowk, opposite Santoshi Mata Mandir, Machchhi Bhavan, Lucknow 226003
